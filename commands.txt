@@ -1,0 +1,3 @@
+/etc/init.d/memcached
+/etc/init.d/redis-server
+/etc/init.d/mongodb
