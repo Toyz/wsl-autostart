@@ -20,3 +20,4 @@
 bindata.go
 .vscode
 debug
+errors.txt
